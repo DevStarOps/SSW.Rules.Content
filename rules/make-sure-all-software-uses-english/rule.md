@@ -41,7 +41,7 @@ You want all screenshots you take to be showing English. Most of the time it is 
 In Chrome, you can follow these steps directly:
 
 1. Three dots bar at the top right of the Chrome window: 
-       
+      
 
   ![Figure: Blank Chrome page showing the 'Settings' button, 3 small dots](chroooome.jpg)
 
