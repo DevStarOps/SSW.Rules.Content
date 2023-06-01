@@ -26,6 +26,8 @@ Let us look at some examples:
 
 ### Google Chrome
 
+ testing 
+
 ::: bad
 !\[Figure: Bad example - Chrome using Chinese as its language setting](2016-3-22 10-43-12.png)
 :::
@@ -41,7 +43,7 @@ You want all screenshots you take to be showing English. Most of the time it is 
 In Chrome, you can follow these steps directly:
 
 1. Three dots bar at the top right of the Chrome window: 
-     
+    
 
   ![Figure: Blank Chrome page showing the 'Settings' button, 3 small dots](chroooome.jpg)
 
