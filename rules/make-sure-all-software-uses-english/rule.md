@@ -17,23 +17,21 @@ redirects:
 created: 2016-03-22T06:16:19.000Z
 archivedreason: null
 guid: f6fcedaf-f4c4-4196-8996-b6e93b14f8c2
-
 ---
-
 When dealing with western people, you want to avoid having screen captures showing foreign characters.
 
-Let us look at some examples:
+Let us look at some examples: 
 
 <!--endintro-->
 
 ### Google Chrome
 
 ::: bad
-![Figure: Bad example - Chrome using Chinese as its language setting](2016-3-22 10-43-12.png)
+!\[Figure: Bad example - Chrome using Chinese as its language setting](2016-3-22 10-43-12.png)
 :::
 
 ::: good
-![Figure: Good example - Chrome using English as its language setting](2016-3-22 14-59-07.png)
+!\[Figure: Good example - Chrome using English as its language setting](2016-3-22 14-59-07.png)
 :::
 
 ### How to fix on a PC?
@@ -43,33 +41,33 @@ You want all screenshots you take to be showing English. Most of the time it is 
 In Chrome, you can follow these steps directly:
 
 1. Three dots bar at the top right of the Chrome window: 
-        
+       
+
   ![Figure: Blank Chrome page showing the 'Settings' button, 3 small dots](chroooome.jpg)
 
 2. Click on Settings: 
-    
+
   ![Figure: Showing the 'Settings' page](ssw12.png)
 
 3. Click on Advanced: 
-    
+
   ![Figure: Advanced tab in Settings](ssw13.png)
 
 4. Click on 'Add Languages': 
-    
+
   ![Figure: Add Languages to your current Chrome](ssw14.png)
 
 5. Move English to the top 
-    
+
   ![Figure: Move English to top](ChromeEnOnTop.png)
 
 ### How to fix on a Mac?
 
 1. Change the language in System Preferences. Go to **Apple menu | System Preferences | Language & Region**
-    
+
   ![Figure: In macOS it’s simple to change to English](WX20180906-111514@2x.png)
 
 2. In Preferred languages, add English and select it as primary language
-
 3. Reboot the system and verify that English is now the primary language for all desktop applications
 
 ### How to fix your Google account?
@@ -77,19 +75,18 @@ In Chrome, you can follow these steps directly:
 You should also change your Google language to English as well. If it is not already, take a look at these steps:
 
 1. Go to www.google.com
-
 2. Click on `Sign-In` or `My Account` if you are already signed in 
-    
+
   ![Figure: Google page without an account](ssw1.png)
 
   ![Figure: Google page with an account](ssw2.png)
 
 3. Search for 'Language': 
-    
+
   ![Figure: Search for 'language'](GoogleAccountSearch.png)
 
 4. Now click `Language` and search for English 
-    
+
   ![Figure: Language picker](GoogleAccountAdd.png)
 
 5. Move English up to default language by clicking on the arrow
@@ -101,11 +98,11 @@ You should also change your Google language to English as well. If it is not alr
 ### How to fix your Gmail account?
 
 1. Click on the cog then Settings 
-    
+
   ![Figure: Access to Settings on Gmail](Gmail1.png)
 
 2. Set language to English(US) 
-    
+
   ![Figure: Change language setting](Gmail2.png)
 
 3. Scroll down and click on 'Save Changes'. Done!
@@ -113,15 +110,15 @@ You should also change your Google language to English as well. If it is not alr
 ### How to fix Mozilla Firefox?
 
 1. Go to Options 
-    
+
   ![Figure: Access to Firefox options](Firefox1.png)
 
 2. Set Display language to English (United States), you may have to restart Firefox to apply the change 
-    
+
   ![Figure: Language settings](Firefox2.png)
 
 3. Choose your preferred language for displaying pages. Add English (United States) and move it to the top 
-    
+
   ![Figure: Click Choose to change your preferred language](Firefox3a.png)
 
   ![Figure: Add English (United States) to your preferred language for displaying pages](Firefox3.png)
@@ -171,7 +168,7 @@ Some cheap versions of Microsoft Office 365 only allow Chinese, so you need to u
   ![Figure: Set regional format to English](RegionalFormatSettingForWin10.png)
 
 7. In Outlook, go to **File | Options | Advanced | International options**, check "Use English for message headers..."
- 
+
   ![Figure: Force message headers to English](outlook_options_headers.png)
 
 8. Done. You have changed your language to English. Congratulations!  
@@ -197,7 +194,7 @@ Some cheap versions of Microsoft Office 365 only allow Chinese, so you need to u
   ::: img-medium
   ![Figure: Navigate to Settings|General|Language & Region](iossetting.png)
   :::
-  
+
 2. Drag English field to the top of the PREFERRED LANGUAGES list
 
   ::: img-medium
