@@ -20,7 +20,7 @@ guid: f6fcedaf-f4c4-4196-8996-b6e93b14f8c2
 ---
 When dealing with western people, you want to avoid having screen captures showing foreign characters.
 
-Let us look at some examples: 
+Let us look at some examples:  
 
 <!--endintro-->
 
@@ -41,7 +41,7 @@ You want all screenshots you take to be showing English. Most of the time it is 
 In Chrome, you can follow these steps directly:
 
 1. Three dots bar at the top right of the Chrome window: 
-      
+     
 
   ![Figure: Blank Chrome page showing the 'Settings' button, 3 small dots](chroooome.jpg)
 
